@@ -1,14 +1,14 @@
 {
-    "name": "ltsteam/oapi-taobao-client",
+    "name": "ricky/qjiatrip-b2b-sms",
     "type": "library",
     "description": "Taobao top client(SDK) for laravel 5.1",
-    "keywords": ["taobao", "laravel", "sdk", "api"],
-    "homepage": "https://github.com/LTSTeam/oapi-taobao-client",
+    "keywords": ["qjia", "laravel", "sdk", "api"],
+    "homepage": "https://github.com/rickyl86/qjiatrip-b2b-sms.git",
     "license": "MIT",
     "authors": [
         {
-            "name": "LTSTeam",
-            "email": "tenstone@foxmail.com"
+            "name": "ricky",
+            "email": "ricky.l86@foxmail.com"
         }
     ],
     "require": {
